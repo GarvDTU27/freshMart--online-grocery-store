@@ -84,7 +84,7 @@ Customer Account
 
 Register new account via /register
 
-🛒 Using the Application
+# 🛒 Using the Application
 Browse products on the homepage
 
 Add items to your cart
